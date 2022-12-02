@@ -1,0 +1,2 @@
+# Loan-Prediction
+Decision Tree & Random Forest I am using publicly available data from LendingClub.com. Lending Club connects people who need money (borrowers) with people who have money (investors). Here it is used the lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full. For this I used both decision tree model and random forest model.
